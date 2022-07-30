@@ -2,6 +2,7 @@
 
 - I am a developer who can be found in the constant phase of learning and implementing. 
 - Caffeine and books are my best buddies beyond the laptop.
+- My portoflio can be viewed <a href="https://thakur-meg.github.io" >here</a>.
 
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=thakur-meg&theme=dracula&count_private=true&show_icons=true&locale=en" alt="thakur-meg" /></p>
